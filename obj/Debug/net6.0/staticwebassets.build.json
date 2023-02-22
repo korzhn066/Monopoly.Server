@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bPWfTsLTFgrooT1w8Qe1YSAxuMqP7Mvg8doA5lLPDE4=",
+  "Source": "Monopoly.Server",
+  "BasePath": "_content/Monopoly.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
